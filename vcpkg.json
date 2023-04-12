@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "log4cxx-testing",
+  "version-semver": "0.1.0",
+  "builtin-baseline": "203383666e2422ed31e1faebe6efa6e306bd126d",
+  "dependencies": [
+    {
+      "name": "log4cxx",
+      "version>=": "1.0.0#6"
+    }
+  ],
+  "overrides": [
+  ]
+}
